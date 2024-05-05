@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298328063498",
+    "project_id": "nirbhaya-e89a1",
+    "storage_bucket": "nirbhaya-e89a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298328063498:android:1f9f94e012ee6b6162a9f3",
+        "android_client_info": {
+          "package_name": "com.example.nirbhaya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSlC42J_q36Hj8a0bifZ2Hz3cYvecA3UE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
